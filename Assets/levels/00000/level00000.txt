@@ -1,0 +1,95 @@
+XXXXXXXXXXXXXXXXXXXXXX
+X*******XXXXXXXXXXX**X
+X****╔═╗*XXX*********X
+X****║*║********╔══╗*X
+╞════╝*║***╔════╝**║*X
+XXX****║***║*******║*X
+XXX*╔══╝***║*******║*X
+X***║******║*******║*X
+X***╚══════╝*XXXXX*║*X
+X************XXXXX*║*X
+XXXXX********XXXXXX║XX
+XXXXXXXXXXXXXXXXXXXXXX
+
+
+Notes:
+	The outer edges of the map are off the screen.
+	This makes the edges the best place to put tiles that spawn Squibbles or the end of the path.
+	Squibbles will disappear when they get to the center of the last path tile.
+
+
+LEGEND
+
+	Basic Path Pieces
+	╔══╗
+	║  ║
+	╚══╝
+
+	Walker Entrances
+
+		Horizontal, enters from the side with the single vertical line
+		╡  ╞ 
+		
+		Vertical, enters from the side with the single horizontal line
+		╨  ╥
+
+	Basic Ground
+	*
+
+	No Placement Zone
+	X
+
+
+
+
+
+
+THIS IS THE OLD MAP AND THE OLD LEGEND
+
+*******XXXXXXXXXXX**
+****╔═╗*XXX*********
+****║*║********╔══╗*
+╞═══╝*║***╔════╝**║*
+XX****║***║*******║*
+XX*╔══╝***║*******║*
+***║******║*******║*
+***╚══════╝*XXXXX*║*
+************XXXXX*║*
+XXXX********XXXXXXXX
+
+LEGEND
+
+	Basic Path Pieces
+	╔══╗
+	║  ║
+	╚══╝
+
+	Walker Entrances
+
+		Horizontal, enters from the side with the single vertical line
+		╡  ╞ 
+		
+		Vertical, enters from the side with the single horizontal line
+		╨  ╥
+
+		Moving Left, entering from the way the single line extends
+		╛  ╕
+		
+		Moving Right, entering from the way the single line extends
+		╘  ╒
+		
+		Moving Up, entering from the way the single line extends
+		╜  ╙
+		
+		Moving Down, entering from the way the single line extends
+		╖  ╓
+		
+
+
+	Basic Ground
+	*
+
+	No Placement Zone
+	X
+
+

@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: e3ffe87ed722aa641882a19d69fe5ad3
+timeCreated: 1461882930
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HTL_Walker_Turnip_0
+    21300002: HTL_Walker_Turnip_1
+    21300004: HTL_Walker_Turnip_2
+    21300006: HTL_Walker_Turnip_3
+    21300008: HTL_Walker_Turnip_4
+    21300010: HTL_Walker_Turnip_5
+    21300012: HTL_Walker_Turnip_6
+    21300014: HTL_Walker_Turnip_7
+    21300016: HTL_Walker_Turnip_8
+    21300018: HTL_Walker_Turnip_9
+    21300020: HTL_Walker_Turnip_10
+    21300022: HTL_Walker_Turnip_11
+    21300024: HTL_Walker_Turnip_12
+    21300026: HTL_Walker_Turnip_13
+    21300028: HTL_Walker_Turnip_14
+    21300030: HTL_Walker_Turnip_15
+    21300032: HTL_Walker_Turnip_16
+    21300034: HTL_Walker_Turnip_17
+    21300036: HTL_Walker_Turnip_18
+    21300038: HTL_Walker_Turnip_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HTL_Walker_Turnip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 19}
+        - {x: -26, y: 13}
+        - {x: -26, y: -3}
+        - {x: -25, y: -4}
+        - {x: -10, y: -22}
+        - {x: 5, y: -22}
+        - {x: 8, y: -21}
+        - {x: 22, y: -4}
+        - {x: 22, y: 16}
+        - {x: 20, y: 19}
+    - name: HTL_Walker_Turnip_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 6}
+        - {x: -26, y: -7}
+        - {x: -6, y: -23}
+        - {x: 5, y: -23}
+        - {x: 22, y: -9}
+        - {x: 22, y: 20}
+        - {x: -19, y: 20}
+        - {x: -23, y: 19}
+    - name: HTL_Walker_Turnip_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 21}
+        - {x: -22, y: 20}
+        - {x: -26, y: 9}
+        - {x: -26, y: -16}
+        - {x: -11, y: -23}
+        - {x: 14, y: -23}
+        - {x: 22, y: -9}
+        - {x: 22, y: 8}
+        - {x: 18, y: 21}
+    - name: HTL_Walker_Turnip_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -26, y: 7}
+        - {x: -26, y: -3}
+        - {x: -16, y: -23}
+        - {x: 12, y: -23}
+        - {x: 22, y: -4}
+        - {x: 22, y: 6}
+        - {x: 15, y: 22}
+    - name: HTL_Walker_Turnip_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 24}
+        - {x: -22, y: 24}
+        - {x: -26, y: 8}
+        - {x: -26, y: -9}
+        - {x: -11, y: -22}
+        - {x: 10, y: -22}
+        - {x: 22, y: -11}
+        - {x: 22, y: 13}
+    - name: HTL_Walker_Turnip_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 25}
+        - {x: -26, y: 3}
+        - {x: -26, y: -9}
+        - {x: -17, y: -23}
+        - {x: 11, y: -23}
+        - {x: 22, y: -9}
+        - {x: 22, y: 4}
+        - {x: 18, y: 25}
+    - name: HTL_Walker_Turnip_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -25, y: 7}
+        - {x: -25, y: -7}
+        - {x: -16, y: -23}
+        - {x: 10, y: -23}
+        - {x: 21, y: -11}
+        - {x: 21, y: 0}
+        - {x: 10, y: 25}
+    - name: HTL_Walker_Turnip_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -25, y: 12}
+        - {x: -25, y: -16}
+        - {x: -22, y: -23}
+        - {x: 13, y: -23}
+        - {x: 21, y: -13}
+        - {x: 21, y: 1}
+        - {x: 14, y: 24}
+    - name: HTL_Walker_Turnip_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -25, y: -3}
+        - {x: -25, y: -14}
+        - {x: -21, y: -23}
+        - {x: 17, y: -23}
+        - {x: 21, y: -16}
+        - {x: 21, y: -2}
+        - {x: 10, y: 22}
+    - name: HTL_Walker_Turnip_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 21}
+        - {x: -25, y: -3}
+        - {x: -25, y: -12}
+        - {x: -17, y: -21}
+        - {x: -16, y: -23}
+        - {x: 9, y: -23}
+        - {x: 21, y: -18}
+        - {x: 21, y: 8}
+        - {x: 14, y: 21}
+    - name: HTL_Walker_Turnip_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -25, y: -4}
+        - {x: -25, y: -14}
+        - {x: -19, y: -22}
+        - {x: 13, y: -22}
+        - {x: 20, y: -14}
+        - {x: 20, y: -5}
+        - {x: 9, y: 19}
+    - name: HTL_Walker_Turnip_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -24, y: -5}
+        - {x: -24, y: -17}
+        - {x: -21, y: -22}
+        - {x: 15, y: -22}
+        - {x: 20, y: -15}
+        - {x: 20, y: -6}
+        - {x: 12, y: 18}
+    - name: HTL_Walker_Turnip_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -19, y: 5}
+        - {x: -24, y: -8}
+        - {x: -24, y: -16}
+        - {x: -19, y: -22}
+        - {x: 18, y: -22}
+        - {x: 19, y: -16}
+        - {x: 19, y: -6}
+        - {x: 11, y: 16}
+    - name: HTL_Walker_Turnip_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -25, y: 0}
+        - {x: -25, y: -18}
+        - {x: -23, y: -21}
+        - {x: 19, y: -21}
+        - {x: 20, y: -20}
+        - {x: 20, y: 9}
+        - {x: 11, y: 17}
+    - name: HTL_Walker_Turnip_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 18}
+        - {x: -11, y: 18}
+        - {x: -26, y: 4}
+        - {x: -26, y: -5}
+        - {x: -22, y: -21}
+        - {x: 21, y: -21}
+        - {x: 21, y: 8}
+        - {x: 12, y: 17}
+    - name: HTL_Walker_Turnip_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -26, y: 12}
+        - {x: -26, y: -7}
+        - {x: -23, y: -20}
+        - {x: 20, y: -20}
+        - {x: 21, y: -14}
+        - {x: 21, y: 11}
+        - {x: 12, y: 18}
+    - name: HTL_Walker_Turnip_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19}
+        - {x: -26, y: 15}
+        - {x: -26, y: -14}
+        - {x: -24, y: -20}
+        - {x: 21, y: -20}
+        - {x: 21, y: 17}
+        - {x: 17, y: 19}
+    - name: HTL_Walker_Turnip_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 19}
+        - {x: -23, y: 14}
+        - {x: -26, y: 8}
+        - {x: -26, y: -12}
+        - {x: -24, y: -22}
+        - {x: 17, y: -22}
+        - {x: 19, y: -21}
+        - {x: 22, y: -4}
+        - {x: 22, y: 14}
+        - {x: 5, y: 19}
+    - name: HTL_Walker_Turnip_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 19}
+        - {x: -18, y: 19}
+        - {x: -26, y: 7}
+        - {x: -26, y: -1}
+        - {x: -16, y: -23}
+        - {x: 9, y: -23}
+        - {x: 22, y: -3}
+        - {x: 22, y: 12}
+        - {x: 15, y: 18}
+    - name: HTL_Walker_Turnip_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 19}
+        - {x: -26, y: 13}
+        - {x: -26, y: -3}
+        - {x: -25, y: -4}
+        - {x: -10, y: -22}
+        - {x: 5, y: -22}
+        - {x: 8, y: -21}
+        - {x: 22, y: -4}
+        - {x: 22, y: 16}
+        - {x: 20, y: 19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

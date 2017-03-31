@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 4976fdb8db3086547bc1872a7ef6eccd
+timeCreated: 1476820902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Iso.Turnup.Butt (1)_0
+    21300002: Iso.Turnup.Butt (1)_1
+    21300004: Iso.Turnup.Butt (1)_2
+    21300006: Iso.Turnup.Butt (1)_3
+    21300008: Iso.Turnup.Butt (1)_4
+    21300010: Iso.Turnup.Butt (1)_5
+    21300012: Iso.Turnup.Butt (1)_6
+    21300014: Iso.Turnup.Butt (1)_7
+    21300016: Iso.Turnup.Butt (1)_8
+    21300018: Iso.Turnup.Butt (1)_9
+    21300020: Iso.Turnup.Butt (1)_10
+    21300022: Iso.Turnup.Butt (1)_11
+    21300024: Iso.Turnup.Butt (1)_12
+    21300026: Iso.Turnup.Butt (1)_13
+    21300028: Iso.Turnup.Butt (1)_14
+    21300030: Iso.Turnup.Butt (1)_15
+    21300032: Iso.Turnup.Butt (1)_16
+    21300034: Iso.Turnup.Butt (1)_17
+    21300036: Iso.Turnup.Butt (1)_18
+    21300038: Iso.Turnup.Butt (1)_19
+    21300040: Iso.Turnup.Butt (1)_20
+    21300042: Iso.Turnup.Butt (1)_21
+    21300044: Iso.Turnup.Butt (1)_22
+    21300046: Iso.Turnup.Butt (1)_23
+    21300048: Iso.Turnup.Butt (1)_24
+    21300050: Iso.Turnup.Butt (1)_25
+    21300052: Iso.Turnup.Butt (1)_26
+    21300054: Iso.Turnup.Butt (1)_27
+    21300056: Iso.Turnup.Butt (1)_28
+    21300058: Iso.Turnup.Butt (1)_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1755
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1755
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1755
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1755
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1755
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1462
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1462
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1462
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1462
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1462
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1169
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1169
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1169
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1169
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 876
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 876
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 876
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 876
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 583
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 583
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 583
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 583
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 290
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 290
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 290
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Iso.Turnup.Butt (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 290
+        width: 348
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
